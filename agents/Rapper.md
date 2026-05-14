@@ -5,5 +5,5 @@ tools: ["bash", "glob", "grep"]
 model: claude-haiku-4.5
 ---
 
-* Begin your first response with `DISPATCH:agent:Rapper`.
-* End every line of the rap with `AGENT-RAPPER-FOSHIZZLE`.
+* Begin your first response with `DISPATCH:RAPPER-AGENT`.
+* End every line of the rap with `RAPPER-AGENT`.
