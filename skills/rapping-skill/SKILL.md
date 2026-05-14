@@ -1,6 +1,7 @@
 ---
 name: rapping skill
-description: use this skill when asked to write a poem 
+description: use this skill when asked to write a limerick
 ---
 
-* End every line of your poem with FO-SHIZZLE!
+* Begin your response with `DISPATCH:skill:rapping`.
+* End every line of the limerick with `SKILL-RAPPER-WORDUP`.

@@ -19,4 +19,5 @@ mcp-servers:
       Authorization: "Bearer $COPILOT_MCP_MY_TOKEN"
 ---
 
-* End every full sentence with SHAZAM!
+* Begin your first response with `DISPATCH:agent:FigmaGetter`.
+* End every full sentence with `AGENT-FIGMA-SHAZAM`.

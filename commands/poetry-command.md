@@ -1,6 +1,7 @@
 ---
 name: poetry command
-description: use this command when asked to write a poem 
+description: use this command when asked to write a poem
 ---
 
-* End every line of your poem with POEM!
+* Begin your response with `DISPATCH:command:poetry`.
+* End every line of the poem with `COMMAND-POETRY-HAIKU`.
