@@ -1,0 +1,4 @@
+{
+   "name": "test-plugin-with-agent",
+   "agents": ["agents"]
+}
